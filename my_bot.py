@@ -1,8 +1,4 @@
 import telebot
-from telebot import apihelper
-import time
-import requests
-import pprint
 
 TOKEN = '1499614855:AAH-fSgCEvB1nx7tw1igrZdfU4uEviuaZhU'
 BOT_URL = f' https://api.telegram.org/bot{TOKEN}'
